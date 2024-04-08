@@ -1,0 +1,2 @@
+import DxDispatcher
+DxDispatcher.checkinternet()
