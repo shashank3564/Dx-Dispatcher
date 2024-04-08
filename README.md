@@ -1,4 +1,5 @@
 # Dx-Dispatcher by Team Illusion
+<img src="https://github.com/shashank3564/Dx-Dispatcher/blob/main/Assest/banner.gif" width=100%>
 
 ### Dx-Dispatcher is a powerful DDoS (Distributed Denial of Service) tool developed by Team Illusion. This tool is designed to stress test network infrastructures and websites, simulating a large influx of traffic to overwhelm servers and disrupt services. 
 
