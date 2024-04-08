@@ -46,7 +46,7 @@ For further assistance or inquiries, please refer to  contact [Team Illusion](ht
 * `cd Dx-Dispatcher`
 * `python3 main.py`
 
-### Linux
+### Windows
 * Install Python version 3.12
 * Download this file`https://github.com/shashank3564/Dx-Dispatcher/archive/refs/heads/main.zip`
 * Unzip the `Dx-Dispatcher.zip`
