@@ -4,7 +4,7 @@
 ### Dx-Dispatcher is a powerful DDoS (Distributed Denial of Service) tool developed by Team Illusion. This tool is designed to stress test network infrastructures and websites, simulating a large influx of traffic to overwhelm servers and disrupt services. 
 
 
-### **Warning:** It's important to note that using this tool for illegal activities or to disrupt legitimate services is highly unethical and illegal. Misusing this tool can lead to serious legal consequences, including but not limited to criminal charges and civil lawsuits. The developer and Team Illusion will not be held responsible for any misuse of this tool.
+#### **Warning:** It's important to note that using this tool for illegal activities or to disrupt legitimate services is highly unethical and illegal. Misusing this tool can lead to serious legal consequences, including but not limited to criminal charges and civil lawsuits. The developer and Team Illusion will not be held responsible for any misuse of this tool.
 
 ## Features
 - Ability to launch DDoS attacks against target servers or websites.
